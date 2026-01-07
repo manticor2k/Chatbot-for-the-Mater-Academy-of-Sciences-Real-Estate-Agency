@@ -1,7 +1,7 @@
 # Проект: Чат-бот для агентства недвижимости АН «МЭтр»
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/sav1.png?raw=true))
-![Иллюстрация к проекту]([https://example.com/image.png]([https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/sav1.png?raw=true)](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/Screenshot_1.png?raw=true))
-![Иллюстрация к проекту]([[https://example.com/image.png](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/sav1.png?raw=true)](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/Calen.png?raw=true))
+![Иллюстрация к проекту](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/sav1.png)
+![Иллюстрация к проекту](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/Screenshot_1.png)
+![Иллюстрация к проекту](https://github.com/manticor2k/Chatbot-for-the-Mater-Academy-of-Sciences-Real-Estate-Agency/blob/main/Calen.png)
 Этот репозиторий содержит спецификацию диалогового агента (чат-бота), разработанного для **агентства недвижимости АН «МЭтр»** (г. Самара). Цель проекта — автоматизировать первичное взаимодействие с клиентами и эффективно переводить интерес в конкретные действия: **запись на просмотр квартиры или согласие на звонок менеджера**.
 
 ## О компании
